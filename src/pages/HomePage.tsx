@@ -21,7 +21,7 @@ export default function HomePage() {
             "From 68 ₾",
             "24/7 Front Desk"
           ]}
-          imageSrc="https://img.b2bpic.net/free-photo/white-pillow-bed_74190-3602.jpg"
+          imageSrc="https://img.b2bpic.net/free-photo/white-pillow-bed_74190-3602.jpg?_wi=1"
           imageAlt="hotel room bed"
           cta={{
             text: "Explore Rooms",
@@ -36,7 +36,7 @@ export default function HomePage() {
             {
               title: "Standard Room",
               description: "Cozy room with free Wi-Fi, air conditioning, and street views from 68 ₾.",
-              imageSrc: "https://img.b2bpic.net/free-photo/white-pillow-bed_74190-3602.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/white-pillow-bed_74190-3602.jpg?_wi=2",
               imageAlt: "hotel room bed"
             },
             {
